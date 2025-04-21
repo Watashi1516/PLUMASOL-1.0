@@ -1,0 +1,9 @@
+/* Estilo general para todas las imágenes de logo */
+.platform-logo {
+    width: 200px;          /* Ancho fijo */
+    height: 150px;          /* Alto automático para mantener proporción */
+    display: block;        /* Para evitar espacios en blanco debajo de la imagen */
+    margin: 2 auto;        /* Centra la imagen horizontalmente */
+    object-fit: contain;   /* Ajusta bien la imagen sin deformarla */
+    Background-color:#fff;
+}
